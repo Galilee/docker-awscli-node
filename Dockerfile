@@ -3,6 +3,7 @@ MAINTAINER Gabriel Malet <gmalet@galilee.fr>
 
 RUN apk --no-cache add \
         bash \
+        openssh-client \
         shadow \
         python \
         py-pip \

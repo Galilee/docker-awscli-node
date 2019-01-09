@@ -1,6 +1,6 @@
 SHELL_NAME ?= /bin/bash
 BUILD_DIR := $(shell pwd)
-TAG_NAME := docker-awscli-node
+TAG_NAME := galilee/docker-awscli-node
 
 .PHONY: build shell
 
