@@ -4,6 +4,7 @@ MAINTAINER Gabriel Malet <gmalet@galilee.fr>
 RUN apk --no-cache add \
         bash \
         openssh-client \
+        git \
         shadow \
         python \
         py-pip \
